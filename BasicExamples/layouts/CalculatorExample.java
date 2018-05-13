@@ -11,8 +11,8 @@ import org.eclipse.swt.widgets.Text;
 
 /**
  * Calculator example for showing how GridLayout works in SWT.
- * @author Óscar Darias Plasencia
- * @since 13-5-2017
+ * @author Imar Abreu Diaz
+ * @since 2-5-2018
  */
 public class CalculatorExample {
 	private static final int N_COLUMNS = 4;

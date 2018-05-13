@@ -16,8 +16,8 @@ import org.eclipse.swt.widgets.Text;
 
 /**
  * Example of how to use FormLayout to build interfaces with SWT.
- * @author Óscar Darias Plasencia
- * @since 2-5-2017
+ * @author Imar Abreu Diaz
+ * @since 2-5-2018
  */
 public class UsingFormLayout {
     

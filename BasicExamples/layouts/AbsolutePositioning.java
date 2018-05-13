@@ -13,12 +13,12 @@ public class AbsolutePositioning {
         
         Button btn1 = new Button(shell, SWT.PUSH);
         btn1.setText("Used setBounds()");
-        btn1.setBounds(20, 50, 80, 30);
+        btn1.setBounds(200, 50, 80, 30);
 
         Button btn2 = new Button(shell, SWT.PUSH);
         btn2.setText("Used setSize() with setLocation()");
         btn2.setSize(80, 30);
-        btn2.setLocation(50, 100);
+        btn2.setLocation(500, 100);
         
         shell.setText("ABSOLUTE");
         shell.pack();
